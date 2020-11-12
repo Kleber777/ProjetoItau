@@ -1,0 +1,1 @@
+C:\Programacao\ProjetoItau\ProjetoItau\ProjetoItau.UWP\ProjetoItau.UWP.csproj;x86

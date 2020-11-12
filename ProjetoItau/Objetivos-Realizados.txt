@@ -1,0 +1,5 @@
+Colocar a linha na mesma coluna dos entry para parecer que eu fiz uma linha(X)
+Fazer o gradiente da parte do meio da tela principal (X)
+Deixar o app pegando a tela toda (X)
+Colocar o botão em cima da imagem porém ele transparente (X) 
+Ver a questão de tirar o sombreamento que fica do botão no Xamarin forms dentro de uma Grid. (X) -> Aparentemente fica somente no design viewer.

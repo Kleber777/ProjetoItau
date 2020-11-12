@@ -1,0 +1,22 @@
+﻿using Android.Content;
+using ProjetoItau;
+using ProjetoItau.Droid;
+using Xamarin.Forms;
+using Xamarin.Forms.Platform.Android;
+
+[assembly: ExportRenderer(typeof(TextboxCustomizadoSemBorda), typeof(RenderizadorCustomizadoTextboxSemBorda))]
+namespace ProjetoItau.Droid
+{
+    public class RenderizadorCustomizadoTextboxSemBorda : EntryRenderer(Context) 
+    {
+
+        //protected override void onelementchanged(elementchangedeventargs<entry> e)
+        //{
+        //    base.onelementchanged(e);
+        //    if (e.oldelement == null)
+        //    {
+        //        control.background = null;
+        //    }
+        //}
+    }
+}

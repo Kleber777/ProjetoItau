@@ -1,0 +1,3 @@
+GRIADIENTS XAMARIN FORMS - https://bertuzzi.medium.com/o-x-do-xamarin-forms-magic-gradients-c72841d56576. DEU CERTO!
+TIRANDO AS BORDAS DO ENTRY - https://medium.com/@mcamara/xamarin-forms-textbox-sem-bordas-android-e-ios-9cd3e9bb1627. DEU ERRADO!
+OCULTANDO A BARRA DE STATUS - https://bertuzzi.medium.com/xamarin-rocket-3-tela-cheia-ocultando-a-barra-de-status-8df9f31534d4. DEU +- CERTO, TIVE QUE IMPROVISAR!

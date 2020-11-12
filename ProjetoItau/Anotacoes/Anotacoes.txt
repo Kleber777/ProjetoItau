@@ -1,0 +1,14 @@
+Acredito que possa ter 5 StackLayout aí 
+
+1 com o ícone do itau 
+2 com o texto em branco 
+3 um espaço entre o texto e a parte da agência e conta 
+4 a parte da agência e conta aqui tem a cor 4.0 e a 4.1 
+5 a parte de baixo da agência e conta 
+
+1 - Cor --> #EB7100
+2 - Cor --> #EB7100
+3 - Cor --> #E96D01 --> #D56301
+4 - Cor --> #F97501, #F28003,  #F87601
+4 - Cor 4.1 --> #E98F05 #EF8504
+5 - Cor --> #C06A20 #C26A1F #C26A1E #C06A22
