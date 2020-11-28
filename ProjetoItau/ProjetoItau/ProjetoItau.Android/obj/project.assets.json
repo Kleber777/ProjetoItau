@@ -2157,11 +2157,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.Android\\ProjetoItau.Android.csproj",
+      "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.Android\\ProjetoItau.Android.csproj",
       "projectName": "ProjetoItau.Android",
-      "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.Android\\ProjetoItau.Android.csproj",
+      "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.Android\\ProjetoItau.Android.csproj",
       "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.Android\\obj\\",
+      "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2182,8 +2182,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
-              "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj"
+            "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
+              "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj"
             }
           }
         }

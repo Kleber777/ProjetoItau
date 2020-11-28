@@ -1367,11 +1367,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.iOS\\ProjetoItau.iOS.csproj",
+      "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.iOS\\ProjetoItau.iOS.csproj",
       "projectName": "ProjetoItau.iOS",
-      "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.iOS\\ProjetoItau.iOS.csproj",
+      "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.iOS\\ProjetoItau.iOS.csproj",
       "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.iOS\\obj\\",
+      "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1392,8 +1392,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
-              "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj"
+            "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
+              "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj"
             }
           }
         }

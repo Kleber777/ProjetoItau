@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {}
+    "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {}
   },
   "projects": {
-    "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
+    "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj",
+        "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj",
         "projectName": "ProjetoItau",
-        "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj",
+        "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj",
         "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-        "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\obj\\",
+        "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

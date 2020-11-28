@@ -15,7 +15,7 @@
             <RowDefinition Height="3*"/>
             <RowDefinition Height="3*"/>
             <RowDefinition Height="3*"/>
-            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1.2*"/>
         </Grid.RowDefinitions>
 
         <!--StackLayout com a parte da imagem-->
@@ -25,7 +25,7 @@
 
 
         <!--StackLayout com a parte do texto-->
-        <StackLayout Padding="40, 50, 0, 0" Spacing="1" x:Name="Stl2" BackgroundColor="#EB7100" Grid.Row="1">
+        <StackLayout Padding="40, 20, 0, 0" Spacing="1" x:Name="Stl2" BackgroundColor="#EB7100" Grid.Row="1">
             <Label Text="Quer pagar e receber a"
            HorizontalOptions="Start"
            VerticalOptions="Center" TextColor="White" FontSize="32" FontAttributes="Bold"/>
@@ -36,11 +36,11 @@
           
             <Label Margin="0, 5, 0, 0" Text="Chegou o Pix com um Itaú de"
            HorizontalOptions="Start"
-           TextColor="White" FontSize="20"/>
+           TextColor="White" FontSize="22"/>
           
             <Label Text="segurança. Cadastre-se!"
            HorizontalOptions="Start"
-           TextColor="White" FontSize="20"/>
+           TextColor="White" FontSize="22"/>
 
         </StackLayout>
 
@@ -60,7 +60,7 @@
         </StackLayout>
 
         <!--Parte que fica a agência e conta do itaú-->
-        <Grid x:Name="Stl4" Grid.Row="3">
+        <Grid BackgroundColor="#C26A1E" x:Name="Stl4" Grid.Row="3"  Padding="5, 0, 0, 0">
             
             <magic:GradientView VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand">
                 <magic:GradientView.GradientSource>
@@ -71,7 +71,7 @@
                 </magic:GradientView.GradientSource>
             </magic:GradientView>
 
-            <Grid BackgroundColor="Transparent" Margin="20">
+            <Grid BackgroundColor="Transparent" Margin="20" >
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/>
                     <ColumnDefinition/>
@@ -102,11 +102,11 @@
                             <Entry Placeholder="conta" TextColor="White" PlaceholderColor="White"/>
                         </StackLayout>
 
-                        <BoxView VerticalOptions="Center" Grid.ColumnSpan="5"  HeightRequest="1" BackgroundColor="White" Margin="0, 40, 0, 0"/>
+                        <BoxView VerticalOptions="Center" Grid.ColumnSpan="5"  HeightRequest="2" BackgroundColor="White" Margin="0, 40, 0, 0"/>
                     </Grid>
 
                     <StackLayout VerticalOptions="End"  Orientation="Horizontal">
-                        <Switch HeightRequest="30" VerticalOptions="End"/>
+                        <Switch OnColor="#D46B27" ThumbColor="#F0E8E4" HeightRequest="30" VerticalOptions="End"/>
                         <Label VerticalOptions="Center" Text="Lembrar agência e conta" TextColor="White"/>
                     </StackLayout>
 
@@ -126,7 +126,7 @@
                 </StackLayout>-->
 
 
-                <Button Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HeightRequest="1" BackgroundColor="White" Text="ok"/>
+                <Button Grid.Column="0" Grid.Row="1" Grid.ColumnSpan="2" HeightRequest="1" BackgroundColor="White" Text="ok" TextColor="Gray" FontSize="12"/>
             </Grid>
         </Grid>
 
@@ -136,7 +136,7 @@
 
             <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal" BackgroundColor="#C26A1E">
 
-                <Grid RowSpacing="10" ColumnSpacing="100" >
+                <Grid RowSpacing="10" ColumnSpacing="100" VerticalOptions="Center">
 
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition/>
@@ -149,15 +149,15 @@
                         <RowDefinition Height="Auto"/>
                     </Grid.RowDefinitions>
 
-                    <Image Grid.Column="0" Grid.Row="0" Source="atalho.png" BackgroundColor="Transparent"  HeightRequest="20" WidthRequest="20"/>
+                    <Image Grid.Column="0" Grid.Row="0" Source="Atalho3.png" BackgroundColor="Transparent"  HeightRequest="20" WidthRequest="20"/>
                     <Button Grid.Column="0" Grid.Row="0" BackgroundColor="Transparent" TextColor="White" Clicked="GoTo_AtalhoPage"  HeightRequest="20" WidthRequest="20"/>
                     <Label FontSize="14" Grid.Column="0" Grid.Row="1" Text="atalhos" TextColor="White" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
 
-                    <Image  Grid.Column="1" Grid.Row="0" Source="itoken.png" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20"/>
+                    <Image  Grid.Column="1" Grid.Row="0" Source="IToken3.png" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20"/>
                     <Button Grid.Column="1" Grid.Row="0" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20"/>
                     <Label FontSize="14" Grid.Column="1" Grid.Row="1" Text="iToken" TextColor="White" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
 
-                    <Image Grid.Column="2" Grid.Row="0" Source="ajuda.png" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20"/>
+                    <Image Grid.Column="2" Grid.Row="0" Source="Ajuda3.png" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20"/>
                     <Button Grid.Column="2" Grid.Row="0" BackgroundColor="Transparent" HeightRequest="20" WidthRequest="20"/>
                     <Label FontSize="14" Grid.Column="2" Grid.Row="1" Text="ajuda" TextColor="White" FontAttributes="Bold" HorizontalTextAlignment="Center"/>
 

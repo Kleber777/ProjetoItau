@@ -8780,11 +8780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.UWP\\ProjetoItau.UWP.csproj",
+      "projectUniqueName": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.UWP\\ProjetoItau.UWP.csproj",
       "projectName": "ProjetoItau.UWP",
-      "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.UWP\\ProjetoItau.UWP.csproj",
+      "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.UWP\\ProjetoItau.UWP.csproj",
       "packagesPath": "C:\\Users\\klebe\\.nuget\\packages\\",
-      "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau.UWP\\obj\\",
+      "outputPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.UWP\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -8806,8 +8806,8 @@
       "frameworks": {
         "uap10.0.16299": {
           "projectReferences": {
-            "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
-              "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj"
+            "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj": {
+              "projectPath": "C:\\Programacao\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau\\ProjetoItau.csproj"
             }
           }
         }

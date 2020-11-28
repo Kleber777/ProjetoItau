@@ -1,0 +1,13 @@
+=========================================================================================================================================
+
+1 - Injeção de depêndencia do Xamarin Forms nessa nova versão mano está foda bicho, puta que pariu mano.
+2 - Como tirar o azul padrão que fica na barra de status do android mano puta que pariu cara.
+3 - Não consegui nem a pau tirar a porra da borda do Entry de acordo com o link do Thiago Bertuzzi.
+4 - Não consegui nem a pau mano, colocar um texto um embaixo do outro como é feito no WPF. Também não consegui diminuir o tamanho do 
+botão com uma imagem.
+
+=========================================================================================================================================
+
+SUGESTÕES
+1 - A parte da Agência e conta tentar fazer com AbsoluteLayout. (Talvez fique mais fácil do que com Grid). Ver se o gradiente continua 
+bom com o AbsouteLayout.

@@ -1,0 +1,6 @@
+Tirar as traços dos placeholder () --> Anotado no Arquivo Duvidas.txt
+Colocar o projeto no repositório ()
+Aumentar o botão sem tentar interferir no tamanho da imagem ()
+Por que o botão do app do itau faz barulho ao clicar no botão e o botão do meu app não faz barulho () 
+Bom quando eu digitar alguma coisa no Entry aparecer agência e conta em cima dos Entry de Agência e Conta ()
+Deixar a borda da parte do Itaú redonda ()
